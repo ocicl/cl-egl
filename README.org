@@ -1,0 +1,10 @@
+* cl-egl
+
+Common Lisp wrapper to libEGL
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/malcolmstill/cl-egl.git   |
+| commit  | 9fce750  |
+| systems | cl-egl |
+|---------+-------------------------------------------|
+
